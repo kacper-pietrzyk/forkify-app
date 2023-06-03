@@ -1,5 +1,7 @@
 // import icons from '../img/icons.svg'; // Parcel 1
 import icons from 'url:../img/icons.svg'; // Parcel 2
+import 'core-js/stable'; // pollyfilling everything else
+import 'regenerator-runtime/runtime'; // pollyfilling async/await
 
 const recipeContainer = document.querySelector('.recipe');
 
