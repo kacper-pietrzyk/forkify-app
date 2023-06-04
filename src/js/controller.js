@@ -17,7 +17,6 @@ const timeout = function (s) {
 ///////////////////////////////////////
 
 const controlRecipes = async function () {
-  console.log(1);
   try {
     const id = window.location.hash.slice(1);
 
