@@ -43,4 +43,10 @@ This application was created as a final project during online Javascript course 
 
 ```sh
    npm start
+   ```
+
+### Build for production
+
+```sh
+   npm build
    ``` 
