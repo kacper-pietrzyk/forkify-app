@@ -1,4 +1,4 @@
-# forkify-app
+# Forkify App
 
 
 ## About The Project
